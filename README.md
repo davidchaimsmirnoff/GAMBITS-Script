@@ -5,4 +5,4 @@ WELCOME TO GAMBITS Script
 
 With G-ds help this will be a programming language using the NATO Phonetic Alphabet with the use of Whisper.cpp!
 
-in the time being though - please pray for our sucess!
+In the time being though - please pray for our sucess!
