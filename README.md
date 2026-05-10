@@ -1,5 +1,5 @@
 
-WELCOME TO GAMBITS Script
+WELCOME TO The Repository of GAMBITS Script
 
 ![Alt text](GAMBIT.png)
 
